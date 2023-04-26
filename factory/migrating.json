@@ -1,0 +1,9 @@
+{
+	"name": "migrating",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97096625-7a74-4385-8016-5c20e909ac34",
+		"tenantId": "75f2a99b-01fd-48f2-ac60-d4a7a44fd0cc"
+	}
+}

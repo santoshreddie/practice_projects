@@ -1,0 +1,12 @@
+{
+	"name": "Tanubuddy",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=migratingdata.database.windows.net;initial catalog=Tanubuddy;user id=Buddy",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDM1NUM5NzE5LTY1RDMtNDRFMS1BRkIzLTQ0MkJBODUwRTVBQ182NjkwMTA0NS00YTJlLTQ4N2YtOGUwZS01OGIwYWEwZTFlNGIiDQp9"
+		}
+	}
+}
